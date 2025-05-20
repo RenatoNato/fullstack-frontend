@@ -151,8 +151,5 @@ Componente genérico de paginação:
 3. `ProtectedRoute` permite acesso às rotas internas  
 4. **Logout** → limpa token e retorna ao `/login`
 
----
 
-### 🎉 Pronto para usar!
 
-Suba o **backend** em `8080` e o **frontend** em `5173`, siga os passos de instalação, e você terá o sistema completo em funcionamento.
